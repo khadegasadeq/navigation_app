@@ -16,24 +16,6 @@ This Flutter project is a simple practice application that demonstrates the conc
 - Returning Data from Screens
 - Displaying results using SnackBar
 
-The project is designed to help understand how navigation works in Flutter in a clean and beginner-friendly way.
-
----
-
-## 🚀 Features
-
-### 1️⃣ Basic Navigation
-- Navigate between Home Screen and Details Screen
-- Use of `Navigator.push()` and `Navigator.pop()`
-
-### 2️⃣ Passing Data
-- Send product data (name, description, price) to the details screen
-- Display received data dynamically
-
-### 3️⃣ Returning Data
-- Return a message from details screen back to products screen
-- Show returned result using SnackBar
-
 ---
 
 ## 🖼️ Screenshots
@@ -64,25 +46,6 @@ lib/
 │
 └── models/
 └── product.dart
-
----
-
-## 🛠️ Technologies Used
-
-- Flutter
-- Dart
-- Material Design
-- Navigator (Routing System)
-
----
-
-## 🎯 Learning Outcomes
-
-- Understanding Flutter navigation system
-- Passing data between screens
-- Returning results between pages
-- Improving UI design skills
-- Organizing project structure properly
 
 ---
 ## 📌 Notes
