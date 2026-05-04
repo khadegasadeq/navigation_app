@@ -41,13 +41,13 @@ The project is designed to help understand how navigation works in Flutter in a 
 > Add your screenshots here after running the app
 
 ### Home Screen
-![Home Screen](screenshots/home.png)
+![Home Screen](home.png)
 
 ### Details Screen
-![Details Screen](screenshots/details.png)
+![Details Screen](details.png)
 
 ### Products Screen
-![Products Screen](screenshots/products.png)
+![Products Screen](products.png)
 
 ---
 
